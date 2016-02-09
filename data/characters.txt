@@ -1,0 +1,5 @@
+id		speed	name			recruitment			gold	reach	hp		attack	reloadTime
+0		30		lord			nowhere				0		110		1000	35		1
+1		40		spearman		barracks			50		120		100		5		1
+2		40		archer			barracks			100		400		40		10		4
+5		20		catapult		siege workshop		500		500		300		40		10

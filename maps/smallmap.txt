@@ -1,0 +1,49 @@
+AgeOfLords_MapFile
+mapWidth: 3000
+mapHeight: 2000
+pointsPerCell: 100
+map:
+R R R R R P P P P P P P F F P P P P P P P P P P P P P P P P
+R R R R P P P P P P P P F F P P P P P P P P P P P P P P P P
+R R P P P P P P P P P P F F P P P P P P P P P P P P P P P P
+P P P P P P P P P P P P F F P P P P P P P P P P P P P P P P
+P P P P P P P P P P P R R R R R R P P P P P P P P P P P P P
+P P P P P P P P P P R R R R R R R R R P P P P P P P P P P P
+P P P P P P P P P P R R P P P R R R R P P P P P P P P P P P
+P P P P P P P P P P P P P P P P P P P P P P P P P P P P P P
+P P P P P P P P P P P P P P R P P P P P P P P P P P P P P P
+P P P P P P P P P P P P P P P P P P P P P P P P P P P P P P
+P P P P P P P P P P P P P P P P P P P P P P P P P P P P P P
+P P P P P P P P P P P P P P P P P P P P P P P P P P P P P P
+P P P P P P P P P P P P P P P P P P P P P P P P P P P P P P
+P P P P P P P P P P P P P P P P P P P P P P P P P P P P P P
+P P P P P P P P P P P P P P P P P P P P P P P P P P P P P P
+P P P P P P P P P P P P P P P P P P P P P P P P P P P P P P
+P P P P P P P P P P P P P P P R R P P P P P P P P P P P P P
+P P P P P P P P P P P P P P P R R P P P P P P P P P P P P P
+P P P P P P P P P P P P P P P R R R P P P P P P P P P R R R
+P P P P P P P P P P P P P P R R R R R R R R R R R R R R R R
+territories:
+{
+type: player
+cells:
+(0:12, 0:5)
+(0:9, 6:10)
+(0:13, 11:15)
+(0:15, 16:19)
+}
+{
+type: ai
+cells:
+(13:29, 0:5)
+(19:29, 6:10)
+(14:29, 11:15)
+(16:29, 16:19)
+}
+{
+type: province
+flag: (14, 8)
+cells:
+(10:18, 6:10)
+}
+end

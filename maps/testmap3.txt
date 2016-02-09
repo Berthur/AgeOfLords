@@ -1,0 +1,57 @@
+NB! This map is a obsolete. Please look at the map 'river_frontier' instead. It is whole.
+AgeOfLords_MapFile
+mapWidth: 4000
+mapHeight: 2500
+pointsPerCell: 100
+map:
+R R R R R R R O O O O P P P P P P P P P P P P P P P P P F F P P P P P P P P P P
+R R R R R R R O O O P P P P P P P P P P P P P P P P P F P P P P P P P P P P P P
+R R R R R R O O O P P P P P P P P P P P P P P P P P F P P P P P P P P P P P P P
+R R R R R O O O P P P P P P P P P P P P P P P P P F P P P P P P P P P P P P P P
+R R R R R O O P P P P P P P P P P P P P P P P P F P P P P P P P P P P P O O P P
+R R R R O O P P P P P P P P P P P P P P P P P F P P P P P P O P P O O O O O P P
+R R R O O P P P P P P P P P P P P P P P P P F P P P P P P O O O P P P P P P P P
+R R R O O O O O P P P P P P P P P P P P P F P P P P P P P P P P P P O O P P P P
+R R O O O O P P P P P P P P P P P P P P F P P P P P P P P P P P P P P P P P P P
+R R O O O P P P P P P P P P P P P P P F P P P P P P P P P P P P P P P P P P P P
+R O O P P P P P P P P P P P P P P P F P P P P P P P P P P P P P P P P P P P P P
+R O P P P P P P P P P P P P P P P F P P P P P P P P P P P P P P P P P P P P P P
+O O P P P P P P P P P P P P P P F P P P P P P P P P P P P P P P P P P P P O O O
+O P P P P P P P P P P P P P P F P P P P P P P P P P P P P P P P P P O O O O O O
+O P P P P P P P P P P P P P F P P P P P P P P P P P P P P P P P O O O O O R R R
+P P P P P P P P P P P P P F P P P P P P P P P P P P P P P P P O O O O O R R R R
+P P P P P P P P P P P P F P P P P P P P P P P P P P P P P O O O O O O R R R R R
+P P P P P P P P P P P F P P P P P P P P P P P P P P P P O O O O R R R R R R R R
+P P P P P P P P P P F P P P P P P P P P P P P P P P P O O O O O R R R R R R R R
+P P P P P P P P P F P P P P P P P P P P P P P P P P O O O O O R R R R R R R R R
+P P P P P P P P F P P P P P P P P P P P P P P P P O O O O O R R R R R R R R R R
+P P P P P P P F P P P P P P P P P P P P P P P P O O O O O R R R R R R R R O O O
+P P P P P P F P P P P P P P P P P P P P P P P O O O O O R R R R R R O O O O O O
+P P P P P F P P P P P P P P P P P P P P P P P O O O O O R R R R R R R O O O O O
+P P P P F P P P P P P P P P P P P P P P P P P P O O O O O R R R R R R R R O O O
+territories:
+{
+type: player
+cells:
+(0:14, 0:24)
+}
+{
+type: ai
+cells:
+(24:39, 0:24)
+}
+{
+type: province
+flag: (19, 5)
+cells:
+(15:23, 0:10)
+(15:19, 11)
+}
+{
+type: province
+flag: (19, 17) 
+cells:
+(20:23, 11)
+(15:23, 12:24)
+}
+end

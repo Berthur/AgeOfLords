@@ -1,0 +1,12 @@
+id		name					gold	wood	stone	hp
+1		watchtower				60		24		0		2000
+2		barracks				300		40		10		2000
+3		lumberjack				100		0		0		500
+4		quarry					200		50		0		1500
+5		wooden wall				40		16		0		2000
+6		wooden wall corner		20		8		0		1000
+7		stables					500		80		30		2500
+8		house					100		60		40		1000
+9		siege workshop			400		50		30		2500
+10		stonewall				80		8		30		8000
+11		stonewall corner		40		4		15		4000
